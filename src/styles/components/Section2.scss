@@ -1,0 +1,65 @@
+@import '../core/variables';
+
+// ------------ boxes ---------------
+.section2 {
+  max-width: 1300px;
+  margin: 0 auto;
+  font-family: 'Antic';
+}
+.section2__title {
+  font-family: 'Antic';
+  font-size: 40px;
+  color: $layer6;
+  padding-top: 50px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section2__boxparagraph1 {
+  font-size: 20px;
+  color: $layer6;
+  padding: 40px 20px 0 20px;
+  text-align: center;
+  @media all and (min-width: 800px) {
+    padding: 40px 50px 0 50px;
+  }
+  @media all and (min-width: 1200px) {
+    padding: 40px 90px 0 90px;
+  }
+}
+
+.section2__boxparagraph2 {
+  font-size: 20px;
+  color: $layer6;
+  padding: 20px 20px 0 20px;
+  text-align: center;
+  @media all and (min-width: 800px) {
+    padding: 20px 50px 0 50px;
+  }
+  @media all and (min-width: 1200px) {
+    padding: 20px 90px 0 90px;
+  }
+}
+.section2__download--title {
+  margin-top: 20px;
+}
+.section2__download--title,
+.section2__download--icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $layer6;
+  font-size: 25px;
+}
+
+.section2__download--icondown {
+  color: $layer6;
+  font-size: 25px;
+  margin-top: 10px;
+}
+.section2__download--icondown:hover {
+  color: $layer1Darkest;
+  cursor: pointer;
+}
