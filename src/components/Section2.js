@@ -25,7 +25,7 @@ const Section2 = (props) => {
       <div className="section2__download">
         <h2 className="section2__download--title">VER CV COMPLETO</h2>
         <a
-          href="https://media-exp1.licdn.com/dms/document/C4D2DAQGd7AVocw_acw/profile-treasury-document-pdf-analyzed/0/1662756868208?e=1663804800&v=beta&t=FrRGIr8WANUhbTxEs0pDf8yoFBMflcT1w3su3_HpYIE"
+          href="https://drive.google.com/file/d/1VwYDINSs2sJGANsGI15Mz8lz6gS_xm2m/view?usp=sharing"
           target="_blank"
           className="section5__icon1"
           className="section2__download--icon"
