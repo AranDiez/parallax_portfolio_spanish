@@ -122,3 +122,18 @@
   color: $layer1Darkest;
   cursor: pointer;
 }
+
+.section4__boxparagraph1 {
+  padding-top: 25px;
+}
+.section4__boxtitle1 {
+  padding-top: 35px;
+}
+@media all and (min-width: 800px) {
+  .section4__boxparagraph1 {
+    padding-top: 10px;
+  }
+  .section4__boxtitle1 {
+    padding-top: 4 35px;
+  }
+}

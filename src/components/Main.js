@@ -20,9 +20,7 @@ const Section1 = (props) => {
           <img src={layer0} />
           <div className="main__section1__nametitle">
             <h1 className="main__section1__title">Aran Díez</h1>
-            <h2 className="main__section1__subtitle">
-              Desarrolladora Front-end Junior
-            </h2>
+            <h2 className="main__section1__subtitle">Diseñadora web</h2>
           </div>
         </div>
         <div className="main__section1__layer main__section1__layer-1 ">

@@ -6,18 +6,18 @@ const Section2 = (props) => {
     <section className="section2" id="linkToAbout">
       <h2 className="section2__title">ABOUT</h2>
       <p className="section2__boxparagraph1">
-        ¡Hola! Soy Aran Díez, licenciada en fotografía digital y desarrolladora
-        front-end.
+        ¡Hola! Soy Aran Díez, licenciada en fotografía digital, diseño web y
+        programadora front-end.
       </p>
       <p className="section2__boxparagraph2">
         Durante mi experiencia profesional he trabajado como fotógrafa y
         creadora de contenido gráfico, así como diseño y retoque digital. Mi
         interés en el mundo digital y el desarrollo de producto final me
-        llevaron a dar el salto y convertirme en desarrolladora front-end.
+        llevaron a dar el salto y convertirme en diseñadora web.
       </p>
       <p className="section2__boxparagraph2">
-        Mi objetivo es formar parte de un equipo de desarrolladores con el fin
-        de aprender tanto como sea posible y a la vez ofrecer lo mejor de mis
+        Mi objetivo es formar parte de un equipo de diseñadores con el fin de
+        aprender tanto como sea posible y a la vez ofrecer lo mejor de mis
         habilidades. Soy una persona creativa y empática, con un gusto por la
         armonía y lo estético. Además tengo un buen análisis lógico y una gran
         dedicación.
